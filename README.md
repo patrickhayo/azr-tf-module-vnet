@@ -1,6 +1,6 @@
-# azr-tf-module-template
+# azr-tf-module-vnet
 
-[Terraform](https://www.terraform.io) Module to create **[NAME]** in Azure
+[Terraform](https://www.terraform.io) Module to create **Virtual Network (VNET)** in Azure
 
 <!-- BEGIN_TF_DOCS -->
 ## Prerequisites
